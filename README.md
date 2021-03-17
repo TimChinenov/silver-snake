@@ -13,4 +13,4 @@ python3 main.py
 Inputs should be manually changed within the code. The creative are free expand this :)
 
 ### Additional Comments
-This code is not a showcase of my professional work and should only be interprestted as random hobby project.
+This code is not a showcase of my professional work and should only be interprered as random hobby project.
